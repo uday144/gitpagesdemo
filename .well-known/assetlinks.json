@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vitorota.testeapplink",
+      "sha256_cert_fingerprints": [
+        "B2:F5:4F:E7:D9:9E:A3:95:DF:E8:F0:F9:45:B4:40:D9:52:D5:41:2F:76:8D:D0:BA:21:1E:29:3A:82:87:35:67"
+      ]
+    }
+  }
+]
