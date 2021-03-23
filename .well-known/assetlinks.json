@@ -1,10 +1,9 @@
-[
-  {
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.telstra.mobile.android.mytelstra.dev.debug",
+    "package_name": "com.vitorota.testeapplink",
     "sha256_cert_fingerprints":
-    ["B2:F5:4F:E7:D9:9E:A3:95:DF:E8:F0:F9:45:B4:40:D9:52:D5:41:2F:76:8D:D0:BA:21:1E:29:3A:82:87:35:67"]
+    ["B8:65:1F:32:FE:C3:E1:D9:2F:A8:83:6B:F0:D7:10:4F:EC:02:E8:AB:0A:CA:2B:85:A9:5D:85:B4:B5:84:79:B8"]
   }
 }]
