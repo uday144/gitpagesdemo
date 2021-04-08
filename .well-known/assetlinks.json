@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.vitorota.testeapplink",
+    "package_name": "com.uday.testeapplink",
     "sha256_cert_fingerprints":
-    ["B8:65:1F:32:FE:C3:E1:D9:2F:A8:83:6B:F0:D7:10:4F:EC:02:E8:AB:0A:CA:2B:85:A9:5D:85:B4:B5:84:79:B8"]
+    ["FB:BC:CA:DF:C9:B7:FF:67:76:6E:A0:93:2C:68:EB:B7:EF:39:B0:57:3A:E2:EC:F8:56:14:4B:F5:E1:A9:DE:69"]
   }
 }]
